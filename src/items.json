@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "nombre":"Benq Zowie XL2411P",
+      "descripcion": " BenQ ZOWIE XL2411P es un monitor para PC que puede ser utilizado para pasar muchas horas practicando gaming en el ordenador. Posee un panel TN con retroiluminación WLED y un montón de entradas de video digitales que se pueden utilizar simultáneamente para diversas fuentes. ",
+      "precio": "$50.000"
+    },
+    {
+      "id": 2,
+      "nombre":"Monitor LG 22MK400H led 21.5\" negro 110V/220V",
+      "descripcion": "Disfrutá de todas las cualidades que el monitor LG 22MK400H tiene para ofrecerte. Vas a percibir las imágenes de una manera completamente diferente y podrás complementar cualquier espacio de tu casa.",
+      "precio": "$15.295"
+    },
+    {
+      "id": 3,
+      "nombre":"Monitor Philips V 193V5LHSB2 LCD 18.5\" negro 110V/220V",
+      "descripcion": "Disfrutá de todas las cualidades que el monitor Philips 193V5LHSB2 tiene para ofrecerte. Vas a percibir las imágenes de una manera completamente diferente y podrás complementar cualquier espacio de tu casa.\n",
+      "precio": "$10.995"
+    },
+    {
+      "id": 4,
+      "nombre":"Monitor Acer V6 V206HQL LCD 19.5\" negro 110V/220V",
+      "descripcion": "Disfrutá de todas las cualidades que el monitor Acer V206HQL tiene para ofrecerte. Vas a percibir las imágenes de una manera completamente diferente y podrás complementar cualquier espacio de tu casa.\n",
+      "precio": "$16.000"
+    }
+  ]
+}
