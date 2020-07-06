@@ -9,6 +9,22 @@ import {Link} from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
+import * as firebase from "firebase";
+
+var firebaseConfig = {
+    apiKey: "AIzaSyDOzuAO0_p9GVSwOHLzKww3W9auQYJ78FY",
+    authDomain: "react-831dc.firebaseapp.com",
+    databaseURL: "https://react-831dc.firebaseio.com",
+    projectId: "react-831dc",
+    storageBucket: "react-831dc.appspot.com",
+    messagingSenderId: "762888472149",
+    appId: "1:762888472149:web:14a70b46fa17fa4b5e36dc",
+    measurementId: "G-W7SQP8S6PH"
+};
+// Initialize Firebase
+firebase.initializeApp(firebaseConfig);
+firebase.analytics();
+console.log("FIRE BASE " + firebase.database());
 
 class App extends  React.Component {
   constructor(props) {
